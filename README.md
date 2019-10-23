@@ -1,6 +1,13 @@
 # `sentry-unhandled-rejection-reproduction`
 
-See https://github.com/getsentry/sentry-javascript/issues/1796
+See https://github.com/getsentry/sentry-javascript/issues/1796#issuecomment-545387559
+
+## Install
+
+```sh
+$ (cd sentry-node-4.4.2 && yarn install)
+$ (cd sentry-node-5.7.1 && yarn install)
+```
 
 ## `@sentry/node@4.4.2`
 
