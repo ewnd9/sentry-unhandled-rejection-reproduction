@@ -1,0 +1,8 @@
+{
+  "name": "sentry",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@sentry/node": "^5.7.1"
+  }
+}
